@@ -29,7 +29,5 @@ func main() {
 		fmt.Println("Detail Berat adalah: ", beratBarang, "Kg")
 		fmt.Println("Detail Berat adalah: ", gram, "gram")
 		fmt.Println("Harga totalnya adalah: ", sisaGram+harga)
-	} else {
-		fmt.Println("GBLK")
 	}
 }
